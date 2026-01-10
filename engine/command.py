@@ -45,7 +45,7 @@ def tackcommand():
 @eel.expose
 def allCommands():
 
-    query = tackcommand()
+    query = takecommand()
     print(query)
 
 
